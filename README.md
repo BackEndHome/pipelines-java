@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/azdvops/devopz/_apis/build/status/devopz?branchName=master)](https://dev.azure.com/azdvops/devopz/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
